@@ -21,7 +21,7 @@ A lightweight and efficient URL Shortener service designed to make long URLs sho
    
 2. **Open Terminal on main.go file and run the command**
     ```bash
-    go run main
+    go run main.go
 
 3. **Now, go to Postman and follow these steps:**
 
