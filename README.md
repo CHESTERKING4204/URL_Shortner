@@ -41,4 +41,6 @@ A lightweight and efficient URL Shortener service designed to make long URLs sho
    ```bash
    localhost:3000/redirect/{SHORT CODE YOU GOT}
 
+---
+
 
