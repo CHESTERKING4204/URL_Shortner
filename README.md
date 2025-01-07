@@ -35,6 +35,7 @@ A lightweight and efficient URL Shortener service designed to make long URLs sho
      {
         "url": "{URL you want to make short}"
      }
+     //WRITE YOUR LINK IN BETWEEN {_}
      ```
 
 4. **To use the shortened URL, enter the following format in the browser:**
